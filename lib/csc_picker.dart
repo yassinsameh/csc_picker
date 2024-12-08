@@ -265,7 +265,6 @@ enum CscCountry {
 
 const Map<CscCountry, int> Countries = {
   CscCountry.Afghanistan: 0,
-  CscCountry.Aland_Islands: 1,
   CscCountry.Albania: 2,
   CscCountry.Algeria: 3,
   CscCountry.American_Samoa: 4,
